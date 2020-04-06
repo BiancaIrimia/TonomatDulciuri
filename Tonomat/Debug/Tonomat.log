@@ -1,0 +1,3 @@
+﻿  RepoFile.cpp
+c:\users\bianc\source\repos\tonomat\tonomat\repofile.cpp(28): warning C4018: '<': signed/unsigned mismatch
+  Tonomat.vcxproj -> C:\Users\bianc\source\repos\Tonomat\Debug\Tonomat.exe
